@@ -1,3 +1,5 @@
+package aug8;
+
 import java.util.Scanner;
 
 public class calculator {
