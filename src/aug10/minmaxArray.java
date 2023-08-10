@@ -9,7 +9,7 @@ public class minmaxArray {
         int n=sc.nextInt();
         int a[]=new int[n];
         for (int i = 0; i < n; i++) {
-            System.out.print("Eneter the element number "+(i+1)+" : ");
+            System.out.print("Enter the element number "+(i+1)+" : ");
             a[i]=sc.nextInt();
         }
         int max=a[0];

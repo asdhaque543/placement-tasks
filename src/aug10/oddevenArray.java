@@ -10,7 +10,7 @@ public class oddevenArray {
         int a[]=new int[n];
         int even=0,odd=0;
         for (int i = 0; i < n; i++) {
-            System.out.print("Eneter the element number "+(i+1)+" : ");
+            System.out.print("Enter the element number "+(i+1)+" : ");
             a[i]=sc.nextInt();
             if (a[i]%2==0) {
                 even++;
